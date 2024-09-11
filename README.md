@@ -1,2 +1,2 @@
 # [Realest Estate](https://realestestate.onrender.com/)
-Please be patient while it takes a while to load
+Seems the api is no longer being supported so please stand by while it is replaced and repaired
